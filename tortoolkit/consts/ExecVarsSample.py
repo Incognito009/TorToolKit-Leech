@@ -36,10 +36,10 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        DB_URI = "dbname=tortk user=postgres password=kkraju00 host=127.0.0.1 port=5432"
+        DB_URI = "postgres://opoclnfpekzetz:83983efe87ed209496fe0fe2afce99919dac83643fb20d7b3229e8da3448ef04@ec2-52-207-124-89.compute-1.amazonaws.com:5432/d6a6cghqr3icqq"
 
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
-        #DB_URI = "dbname=tortk user=postgres password=kkraju00 host=db port=5432"
+        #DB_URI = "dbname=d6a6cghqr3icqq user=opoclnfpekzetz password=83983efe87ed209496fe0fe2afce99919dac83643fb20d7b3229e8da3448ef04 host=ec2-52-207-124-89.compute-1.amazonaws.com port=5432"
         
         # The base direcory to which the files will be upload if using RCLONE
         RCLONE_BASE_DIR = "/"
