@@ -11,7 +11,7 @@ except:
         BASE_URL_OF_BOT = "https://18.218.126.71/"
 
         # Edit the server port if you want to keep it default though.
-        SERVPORT = 80
+        SERVPORT = 200
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
         ALD_USR = [-1001399288270, 1002182448]
@@ -36,7 +36,7 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        DB_URI = "dbname=d6a6cghqr3icqq user=opoclnfpekzetz password=83983efe87ed209496fe0fe2afce99919dac83643fb20d7b3229e8da3448ef04 host=ec2-52-207-124-89.compute-1.amazonaws.com port=5432"
+        DB_URI = "dbname=d6a6cghqr3icqq user=opoclnfpekzetz password=83983efe87ed209496fe0fe2afce99919dac83643fb20d7b3229e8da3448ef04 host=52.207.124.89 port=5432"
 
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
         #DB_URI = "dbname=d6a6cghqr3icqq user=opoclnfpekzetz password=83983efe87ed209496fe0fe2afce99919dac83643fb20d7b3229e8da3448ef04 host=ec2-52-207-124-89.compute-1.amazonaws.com port=5432"
