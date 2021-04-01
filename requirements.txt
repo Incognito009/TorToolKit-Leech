@@ -32,3 +32,4 @@ youtube-dl
 instaloader==4.6
 natsort==7.1.0
 Pyrogram==1.1.13
+qbittorrentapi==2020.7.7
